@@ -3,7 +3,7 @@ title:  "Girls Coding Day"
 subtitle: "The Fly!"
 author: "Wferr"
 avatar: "img/authors/cabbage.png"
-image: "img/girl.jpg"
+image: "img/logo.jpg"
 date:   2020-03-08 12:12:12
 ---
 
